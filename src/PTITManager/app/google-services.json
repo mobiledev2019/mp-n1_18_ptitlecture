@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120679206169",
+    "firebase_url": "https://ptit-manager.firebaseio.com",
+    "project_id": "ptit-manager",
+    "storage_bucket": "ptit-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120679206169:android:e4dc132b4fec47fc",
+        "android_client_info": {
+          "package_name": "ptit.com.ptitmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120679206169-sf45j335hanbi16beq6noavgmq5e7gsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWi14SXvO09l3OXpiAfeb5INB9jsWqUnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120679206169-sf45j335hanbi16beq6noavgmq5e7gsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PTIT Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PTIT Manager</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_login">tên đăng nhập</string>
+    <string name="password_login">mật khẩu</string>
+    <string name="bt_login">Đăng Nhập</string>
+    <string name="lb_work_schedule">Quản lí lịch làm việc</string>
+    <string name="lb_schedule_for_the_day">Lịch giảng dạy trong ngày</string>
+    <string name="lb_list_student">Danh sách sinh viên</string>
+    <string name="lb_enter_scores">Nhập điểm thành phần</string>
+    <string name="lb_statistical">Thống kê giờ giảng dạy</string>
+    <string name="lb_subuject">Môn học</string>
+    <string name="lb_group_subuject">Nhóm môn học</string>
+    <string name="lb_profile">Hồ sơ sinh viên</string>
+    <string name="subject_title">Lập trình mạng</string>
+    <string name="class_room">303A2</string>
+    <string name="tv_study_time">14h - 16h</string>
+    <string name="tv_masv">B15DCAT153</string>
+    <string name="tv_name_student">Phạm Trung Thành</string>
+    <string name="title_logout">đăng xuất</string>
+</resources>
